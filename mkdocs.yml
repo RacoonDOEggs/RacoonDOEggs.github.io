@@ -5,14 +5,10 @@ site_url: https://github.com/RacoonDOEggs
 copyright: Marc-Olivier Beaulieu
 
 nav:
+  - English:
     - Home: index.md
-    - Getting Started: nav/getting-started.md
-    - Settings:
-      - nav/settings/favicon.md
-      - nav/settings/custom-highlight.md
-    - Development:
-      - nav/development/development-guide.md
-      - nav/development/release-notes.md
+  - Français: 
+    - Accueil: nav/fr/index_fr.md
 
 theme:
   name: dracula

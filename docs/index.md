@@ -4,7 +4,9 @@
 
 ## About Me
 
-Hi! I'm Marc-Olivier Beaulieu, a passionate student in Robotics Engineering at the University of Sherbrooke with expertise in mechanical and embedded systems. I love creating, learning, and sharing knowledge. Welcome to my portfolio!
+Hi! I'm Marc-Olivier Beaulieu, a passionate student in Robotics Engineering at the University of Sherbrooke with expertise in mechanical and embedded systems. I love challenging projects that push me to learn new things. Welcome to my portfolio!
+
+![Marc-Olivier inside the UdS Baja at Arches National Park](assets/img/Baja/AZ/marco_in_baja.png "Marc-Olivier inside the UdS Baja at Arches National Park")
 
 ---
 
