@@ -1,4 +1,4 @@
-site_name: Portfolio de Projets - Marc-Olivier Beaulieu
+site_name: Project Portfolio - Marc-Olivier Beaulieu
 repo_name: github/RacoonDOEggs
 #repo_url: https://github.com/RacoonDOEggs/RacoonDOEggs.github.io.git
 site_url: https://github.com/RacoonDOEggs
@@ -16,5 +16,5 @@ nav:
 
 theme:
   name: dracula
-  logo: assets/img/RaccoonIcon.png
-  favicon: assets/img/RaccoonIcon.png
+  logo: assets/img/Raccoon/RaccoonIcon.png
+  favicon: assets/img/Raccoon/RaccoonIcon.png

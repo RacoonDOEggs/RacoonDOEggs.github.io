@@ -1,73 +1,21 @@
-# Dracula for [Mkdocs](https://www.mkdocs.org/)
+# Welcome to My Portfolio
 
 ---
 
-> A dark theme for [Mkdocs](https://www.mkdocs.org/).
+## About Me
 
-## Install
+Hi! I'm Marc-Olivier Beaulieu, a passionate student in Robotics Engineering at the University of Sherbrooke with expertise in mechanical and embedded systems. I love creating, learning, and sharing knowledge. Welcome to my portfolio!
 
-#### Installation MkDocs
+---
 
-- To install MkDocs, run the following command from the command line:
+## Contact
 
-```bash
-pip install mkdocs
-```
+Feel free to reach out to me:
 
-#### Installation theme
+- <img src="assets/img/email.png" alt="icon" width="20" height="20"> **Email:** [beaulieumolivier@gmail.com](mailto:beaulieumolivier@gmail.com)
+- <img src="assets/img/in-logo/InBug-White.png" alt="icon" width="20" height="20"> **LinkedIn:** [https://www.linkedin.com/in/marcolivierbeaulieu/](https://www.linkedin.com/in/marcolivierbeaulieu/)
+- <img src="assets/img/Github/github-mark-white.png" alt="icon" width="20" height="20"> **GitHub:** [https://github.com/RacoonDOEggs](https://github.com/RacoonDOEggs)
 
-- Install the theme using PIP:
+---
 
-```bash
-pip install mkdocs-dracula-theme
-```
-
-#### Activating theme
-
-- After the theme is installed, edit your `mkdocs.yml` file and set the theme name to `dracula`:
-
-```yml
-theme:
-    name: dracula
-```
-
-- All instructions can be found at [draculatheme.com/mkdocs](https://draculatheme.com/mkdocs).
-
-### Team
-
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/mkdocs/graphs/contributors).
-
-| [![Fernando Celmer](https://github.com/FernandoCelmer.png?size=100)](https://github.com/FernandoCelmer) | [![Lautaro Linquimán](https://github.com/Ymil.png?size=100)](https://github.com/Ymil) |
-| ------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [Fernando Celmer](https://github.com/FernandoCelmer)                                                    | [Lautaro Linquimán](https://github.com/Ymil)  |
-
-## Community
-
-- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
-- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
-- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
-
-## Getting Help
-
-We use GitHub issues for tracking bugs and feature requests and have limited bandwidth to address them. If you need anything, I ask you to please follow our templates for opening issues or discussions.
-
-- 🐛 [Bug Report](https://github.com/dracula/mkdocs/issues/new/choose)
-- 📕 [Documentation Issue](https://github.com/dracula/mkdocs/issues/new/choose)
-- 🚀 [Feature Request](https://github.com/dracula/mkdocs/issues/new/choose)
-- 💬 [General Question](https://github.com/dracula/mkdocs/issues/new/choose)
-
-## Commit Style
-
-- ⚙️ FEATURE
-- 📝 PEP8
-- 📌 ISSUE
-- 🪲 BUG
-- 📘 DOCS
-- 📦 PyPI
-- ❤️️ TEST
-- ⬆️ CI/CD
-- ⚠️ SECURITY
-
-## License
-
-[MIT License](./LICENSE)
+Thank you for visiting my portfolio!
