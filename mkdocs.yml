@@ -7,6 +7,8 @@ copyright: Marc-Olivier Beaulieu
 nav:
   - English:
     - Home: index.md
+    - Projects:
+      - Baja UdeS: nav/eng/baja_udes.md
   - Français: 
     - Accueil: nav/fr/index_fr.md
 
