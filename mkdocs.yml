@@ -1,1 +1,20 @@
-site_name: My Docs
+site_name: Portfolio de Projets - Marc-Olivier Beaulieu
+repo_name: github/RacoonDOEggs
+#repo_url: https://github.com/RacoonDOEggs/RacoonDOEggs.github.io.git
+site_url: https://github.com/RacoonDOEggs
+copyright: Marc-Olivier Beaulieu
+
+nav:
+    - Home: index.md
+    - Getting Started: nav/getting-started.md
+    - Settings:
+      - nav/settings/favicon.md
+      - nav/settings/custom-highlight.md
+    - Development:
+      - nav/development/development-guide.md
+      - nav/development/release-notes.md
+
+theme:
+  name: dracula
+  logo: assets/img/RaccoonIcon.png
+  favicon: assets/img/RaccoonIcon.png
