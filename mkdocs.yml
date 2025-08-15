@@ -9,6 +9,17 @@ nav:
     - Home: index.md
     - Projects:
       - Baja UdeS: nav/eng/baja_udes.md
+      - Fox in a Box:
+        - Overview: nav/eng/fox_in_a_box.md
+        - Pirate Cove: nav/eng/pirate_cove.md
+        - Golden Nugget Saloon: nav/eng/golden_nugget_saloon.md
+        - Life Sentence: nav/eng/life_sentence.md
+        - The Other Side: nav/eng/the_other_side.md
+        - The Bunker: nav/eng/the_bunker.md
+        - Tesla's Mystery: nav/eng/teslas_mystery.md
+        - The Zodiac Killer: nav/eng/the_zodiac_killer.md
+        - Mastermind: nav/eng/mastermind.md 
+      
   - Français: 
     - Accueil: nav/fr/index_fr.md
 
