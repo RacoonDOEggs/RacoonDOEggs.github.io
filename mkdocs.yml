@@ -22,6 +22,8 @@ nav:
       - rusEFI: nav/eng/microRusEFI.md
   - Français: 
     - Accueil: nav/fr/index_fr.md
+    - Projets:
+      - rusEFI: nav/fr/microRusEFI_fr.md
 
 theme:
   name: dracula
