@@ -57,12 +57,12 @@ This ECU has yet to be mounted in a car to properly control an engine. This page
 
 ## Gallery
 
-![microRusEFI KiCad PCB Design](../../../assets/img/microRusEFI/mru_kicad.png "microRusEFI KiCad PCB Design")
+![microRusEFI KiCad PCB Design](../../assets/img/microRusEFI/mru_kicad.png "microRusEFI KiCad PCB Design")
 
-![microRusEFI Plugged In](../../../assets/img/microRusEFI/mru_plugged.JPG "microRusEFI Plugged In")
+![microRusEFI Plugged In](../../assets/img/microRusEFI/mru_plugged.JPG "microRusEFI Plugged In")
 
-![microRusEFI Side A](../../../assets/img/microRusEFI/mru_sideA.JPG "microRusEFI Side A")
+![microRusEFI Side A](../../assets/img/microRusEFI/mru_sideA.JPG "microRusEFI Side A")
 
-![microRusEFI Side B](../../../assets/img/microRusEFI/mru_sideB.JPG "microRusEFI Side B")
+![microRusEFI Side B](../../assets/img/microRusEFI/mru_sideB.JPG "microRusEFI Side B")
 
-![TunerStudio Interface](../../../assets/img/microRusEFI/tunerStudio.png "TunerStudio Interface")
+![TunerStudio Interface](../../assets/img/microRusEFI/tunerStudio.png "TunerStudio Interface")
