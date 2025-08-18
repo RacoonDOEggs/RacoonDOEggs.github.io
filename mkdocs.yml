@@ -19,7 +19,7 @@ nav:
         - Tesla's Mystery: nav/eng/teslas_mystery.md
         - The Zodiac Killer: nav/eng/the_zodiac_killer.md
         - Mastermind: nav/eng/mastermind.md 
-      
+      - rusEFI: nav/eng/microRusEFI.md
   - Français: 
     - Accueil: nav/fr/index_fr.md
 
